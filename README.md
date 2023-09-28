@@ -1,10 +1,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jjacquesm/" target="_blank">
+  <a href="https://shrinke.me/Ra8v" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/3956263/j-jacques-m" target="_blank">
+  <a href="https://shrinke.me/bCQI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
